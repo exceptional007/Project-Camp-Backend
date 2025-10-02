@@ -1,0 +1,20 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "A Project Management Application for Beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Akshhat Srivastva",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
